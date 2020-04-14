@@ -8,3 +8,8 @@ Kentucky's Red River Gorge National Geological Area
 
 ![Preview of map](basemap/RRGArches.jpg)    
 *Preview of map*
+
+## Photographs from region
+
+![missing photos](missing/link/toimage.jpg)      
+*who made this missing photo*
