@@ -9,6 +9,11 @@ Kentucky's Red River Gorge National Geological Area
 ![Preview of map](basemap/RRGArches.jpg)    
 *Preview of map*
 
+## Cliffs of Cave Run
+
+![Preview of map](elevation/cliffs.jpg)    
+*Preview of map*
+
 ## Visit web page
 
 [SEPrice.github.io/rrg](https://SEPrice.github.io/rrg)
