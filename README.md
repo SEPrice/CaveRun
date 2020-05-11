@@ -14,10 +14,10 @@ Kentucky's Cave Run Lake and it's *'Twin Hollows'* are well known in the area fo
 *Contours of the Twin Hollows*
 
 ![Map of Area of Interest](AOI.jpg)
-*Initial map of hillshade and contours in ArcGIS Pro*
+*Initial map of hillshade and contours in ArcGIS Pro ([download](AOI.pdf))*
 
 ![Map of Cliffs Over 30ft](Lab7.jpg)     
-*Layout showing Cliffs Over 30ft*
+*Layout showing Cliffs Over 30ft ([download](Lab7Map.pdf))*
 
 ### Tools & Sources Used:
 
