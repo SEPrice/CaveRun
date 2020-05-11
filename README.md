@@ -13,10 +13,10 @@ Kentucky's Cave Run Lake and it's *'Twin Hollows'* are well known in the area fo
 ![Contoured View of Twin Hollows](twinhollowsabove.JPG)     
 *Contours of the Twin Hollows*
 
-![Map of Area of Interest](AOI.JPG)
+![Map of Area of Interest](AOI.jpg)
 *Initial map of hillshade and contours in ArcGIS Pro*
 
-![Map of Cliffs Over 30ft](Lab7.JPG)     
+![Map of Cliffs Over 30ft](Lab7.jpg)     
 *Layout showing Cliffs Over 30ft*
 
 ### Tools & Sources Used:
@@ -33,10 +33,10 @@ Kentucky's Cave Run Lake and it's *'Twin Hollows'* are well known in the area fo
 ![Contoured View of Twin Hollows](twinsbranches.JPG)     
 *Other landmarks and 'well-knowns' near the Twin Hollows*
 
-![Campsite along the Twin Hollows](campsite.JPG)     
+![Campsite along the Twin Hollows](campsite.jpg)     
 *Campsite along the Twin Hollows*
 
-![House on one of the Twin Hollows](houseonpillar.JPG)     
+![House on one of the Twin Hollows](houseonpillar.jpg)     
 *House atop one of the Twin Hollows*
 
 ![Road access to the Twin Hollows](twinsroadaccess.JPG)
