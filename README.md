@@ -4,7 +4,7 @@ Kentucky's Cave Run Lake and it's *'Twin Hollows'* are well known in the area fo
 
 ### Goal of the Project: 
 
-* The aim of this project was to further explore the terrrain of the land along the ouskirts of the Twin Hollows. While also putting the pillar on display that runs along its perimeter, towering over the water at around 100 feet. 
+* The aim of this project was to further explore the terrain of the land along the outskirts of the Twin Hollows. While also putting the pillar on display that runs along its perimeter, towering over the water at around 100 feet. 
 
 ### Area of Interest
 
@@ -18,6 +18,9 @@ Kentucky's Cave Run Lake and it's *'Twin Hollows'* are well known in the area fo
 
 ![Map of Cliffs Over 30ft](Lab7.jpg)     
 *Layout showing Cliffs Over 30ft ([download](Lab7Map.pdf))*
+
+![Mapbox map](page-preview.jpg)     
+*Zoomable map of Twin Hollows ([seprice.github.io/CaveRun]https://seprice.github.io/CaveRun/)*
 
 ### Tools & Sources Used:
 
